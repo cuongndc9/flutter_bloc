@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Stay curious. Keep learning. Keep growing.
-🧑‍💻,
+👻
 <!-- INSPIRATIONAL_QUOTE_END -->
