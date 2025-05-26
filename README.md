@@ -16,6 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Discomfort is the currency of your dreams.
-🧑‍💻,
+Be a lifelong learner, not a know-it-all.
+🦖
 <!-- INSPIRATIONAL_QUOTE_END -->
