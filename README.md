@@ -17,5 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 The best way to predict the future is to create it.
-🐯
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
