@@ -16,5 +16,5 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "I have not failed. I've just found 10,000 ways that won't work." - Thomas A. Edison
+> "A person who never made a mistake never tried anything new." - Albert Einstein
 <!-- INSPIRATIONAL_QUOTE_END -->
